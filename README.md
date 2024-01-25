@@ -1,5 +1,7 @@
 # Lab 05
 
+Note this lab does not have Gradescope pre-lab questions associated with it.
+
 ## Objectives
 
 - Gain some experience with pointers in C.
@@ -25,7 +27,7 @@ Thanks to Professor Mike Hewner for his work on these problems!
 ### `pointers.c`
 
 There are a total of 10 functions for you to write (the first 8 are required,
-the last 2 are optional). Each function is defined in the file `pointers.c` and
+the last 2 are optional). Each function is defined in the file `pointers.c` with the comments, and
 you are to fill in the function body to implement the specified functionality.
 
 The file `pointers.c` contains instructions for each function along with test cases.
